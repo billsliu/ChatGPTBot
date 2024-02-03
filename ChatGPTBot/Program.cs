@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // Replace with your ChatGPT API key
-            string apiKey = "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";
+            string apiKey = "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";
             // Create a ChatGPTClient instance with the API key
             ChatGPTClient chatGPTClient = new ChatGPTClient(apiKey);
 
